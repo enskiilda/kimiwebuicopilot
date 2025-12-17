@@ -1,0 +1,462 @@
+  ➜  press h + enter to show help
+11:06:04 PM [vite-plugin-svelte] src/routes/(app)/+layout.svelte:179:8 Unused CSS selector "pre[class*='language-']"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/routes/(app)/+layout.svelte:189:8 Unused CSS selector "pre[class*='language-'] button"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/routes/(app)/+layout.svelte:203:8 Unused CSS selector "pre[class*='language-'] button:hover"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2470:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2475:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2479:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2485:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:162:3 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:26:12 Component has unused export property 'eventTarget'. If it is for external reference only, please consider using `export const eventTarget`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:27:12 Component has unused export property 'submitPrompt'. If it is for external reference only, please consider using `export const submitPrompt`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:28:12 Component has unused export property 'stopResponse'. If it is for external reference only, please consider using `export const stopResponse`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:29:12 Component has unused export property 'showMessage'. If it is for external reference only, please consider using `export const showMessage`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:30:12 Component has unused export property 'files'. If it is for external reference only, please consider using `export const files`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:31:12 Component has unused export property 'modelId'. If it is for external reference only, please consider using `export const modelId`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/ConfirmDialog.svelte:128:56 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/ConfirmDialog.svelte:166:8 Unused CSS selector ".modal-content"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar.svelte:358:0 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar.svelte:358:0 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Messages.svelte:455:4 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Messages.svelte:457:5 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Messages.svelte:31:12 Component has unused export property 'prompt'. If it is for external reference only, please consider using `export const prompt`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:893:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:976:48 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:976:48 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:1332:56 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:82:19 Component has unused export property 'taskIds'. If it is for external reference only, please consider using `export const taskIds`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Navbar.svelte:67:0 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Navbar.svelte:48:19 Component has unused export property 'scrollTop'. If it is for external reference only, please consider using `export const scrollTop`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Controls/Controls.svelte:77:48 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Controls/Controls.svelte:12:19 Component has unused export property 'models'. If it is for external reference only, please consider using `export const models`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Artifacts.svelte:125:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Artifacts.svelte:153:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/ImagePreview.svelte:92:32 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar/ChatItem.svelte:546:5 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar/UserMenu.svelte:24:19 Component has unused export property 'role'. If it is for external reference only, please consider using `export const role`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/Folder.svelte:15:19 Component has unused export property 'id'. If it is for external reference only, please consider using `export const id`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/Folder.svelte:23:19 Component has unused export property 'onAddLabel'. If it is for external reference only, please consider using `export const onAddLabel`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/PencilSquare.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/PencilSquare.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Search.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Search.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Settings.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Settings.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Sidebar.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Sidebar.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/VoiceRecording.svelte:418:40 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/VoiceRecording.svelte:539:32 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/FileItem.svelte:175:3 `<button>` cannot be a descendant of `<button>`. When rendering this component on the server, the resulting HTML will be modified by the browser (by moving, removing, or inserting elements), likely resulting in a `hydration_mismatch` warning
+https://svelte.dev/e/node_invalid_placement_ssr
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:1137:0 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:162:19 Component has unused export property 'socket'. If it is for external reference only, please consider using `export const socket`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:163:19 Component has unused export property 'user'. If it is for external reference only, please consider using `export const user`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:166:19 Component has unused export property 'documentId'. If it is for external reference only, please consider using `export const documentId`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/InputVariablesModal.svelte:317:13 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/CommandSuggestionList.svelte:14:12 Component has unused export property 'command'. If it is for external reference only, please consider using `export const command`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/layout/Navbar/Menu.svelte:39:19 Component has unused export property 'shareEnabled'. If it is for external reference only, please consider using `export const shareEnabled`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/FullHeightIframe.svelte:174:8 Self-closing HTML tags for non-void elements are ambiguous — use `<iframe ...></iframe>` rather than `<iframe ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/FullHeightIframe.svelte:187:8 Self-closing HTML tags for non-void elements are ambiguous — use `<iframe ...></iframe>` rather than `<iframe ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:81:3 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:261:13 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:288:12 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:28:12 Component has unused export property 'emptyPlaceholder'. If it is for external reference only, please consider using `export const emptyPlaceholder`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:58:5 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:111:1 Unused CSS selector "input::-webkit-outer-spin-button"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:112:1 Unused CSS selector "input::-webkit-inner-spin-button"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:117:1 Unused CSS selector ".tabs::-webkit-scrollbar"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:121:1 Unused CSS selector ".tabs"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:126:1 Unused CSS selector "input[type='number']"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/icons/SignOut.svelte:3:12 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar/RecursiveFolder.svelte:454:24 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/Modal.svelte:89:8 Elements with the 'dialog' interactive role must have a tabindex value
+https://svelte.dev/e/a11y_interactive_supports_focus
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/Textarea.svelte:52:0 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/MultiResponseMessages.svelte:324:48 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/MultiResponseMessages.svelte:324:48 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:541:64 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:1062:88 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:1062:88 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:132:19 Component has unused export property 'rateMessage'. If it is for external reference only, please consider using `export const rateMessage`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:226:88 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:274:48 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:366:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:433:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:459:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:487:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:516:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:546:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:613:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/FileItemModal.svelte:88:56 '#' is not a valid href attribute
+https://svelte.dev/e/a11y_invalid_attribute
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/FileItemModal.svelte:229:48 Self-closing HTML tags for non-void elements are ambiguous — use `<iframe ...></iframe>` rather than `<iframe ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/FileItemModal.svelte:241:48 Self-closing HTML tags for non-void elements are ambiguous — use `<audio ...></audio>` rather than `<audio ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/Valves/MapSelector.svelte:81:8 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:360:16 `<div>` with a mouseenter handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:558:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:590:24 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:591:24 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:43:19 Component has unused export property 'searchEnabled'. If it is for external reference only, please consider using `export const searchEnabled`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:44:19 Component has unused export property 'searchPlaceholder'. If it is for external reference only, please consider using `export const searchPlaceholder`
+https://svelte.dev/e/export_let_unused
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/CodeBlock.svelte:446:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/RateComment.svelte:215:16 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage/RegenerateMenu.svelte:55:5 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage/StatusHistory.svelte:58:11 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/ModelItem.svelte:116:80 Self-closing HTML tags for non-void elements are ambiguous — use `<span ...></span>` rather than `<span ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/ModelItem.svelte:119:80 Self-closing HTML tags for non-void elements are ambiguous — use `<span ...></span>` rather than `<span ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/common/CodeEditor.svelte:235:0 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/MarkdownTokens.svelte:392:16 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/ContentRenderer/FloatingButtons.svelte:302:5 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:07 PM [vite-plugin-svelte] src/lib/components/common/Tags/TagInput.svelte:45:6 Self-closing HTML tags for non-void elements are ambiguous — use `<option ...></option>` rather than `<option ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/AlertRenderer.svelte:74:12 Component has unused export property 'token'. If it is for external reference only, please consider using `export const token`
+https://svelte.dev/e/export_let_unused
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/HTMLToken.svelte:8:12 Component has unused export property 'id'. If it is for external reference only, please consider using `export const id`
+https://svelte.dev/e/export_let_unused
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/SourceToken.svelte:5:12 Component has unused export property 'id'. If it is for external reference only, please consider using `export const id`
+https://svelte.dev/e/export_let_unused
+11:09:28 PM [vite] http proxy error: /api/chat
+Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+
+> open-webui@0.6.40 dev
+> vite dev --host
+
+11:05:57 PM [vite-plugin-svelte] WARNING: The following packages have a svelte field in their package.json but no exports condition for svelte.
+
+@sveltejs/svelte-virtual-list@3.0.1
+
+Please see https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/faq.md#missing-exports-condition for details.
+
+  VITE v5.4.21  ready in 1166 ms
+
+  ➜  Local:   http://localhost:5000/
+  ➜  Network: http://172.31.73.194:5000/
+  ➜  press h + enter to show help
+11:06:04 PM [vite-plugin-svelte] src/routes/(app)/+layout.svelte:179:8 Unused CSS selector "pre[class*='language-']"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/routes/(app)/+layout.svelte:189:8 Unused CSS selector "pre[class*='language-'] button"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/routes/(app)/+layout.svelte:203:8 Unused CSS selector "pre[class*='language-'] button:hover"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2470:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2475:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2479:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Chat.svelte:2485:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:162:3 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:26:12 Component has unused export property 'eventTarget'. If it is for external reference only, please consider using `export const eventTarget`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:27:12 Component has unused export property 'submitPrompt'. If it is for external reference only, please consider using `export const submitPrompt`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:28:12 Component has unused export property 'stopResponse'. If it is for external reference only, please consider using `export const stopResponse`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:29:12 Component has unused export property 'showMessage'. If it is for external reference only, please consider using `export const showMessage`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:30:12 Component has unused export property 'files'. If it is for external reference only, please consider using `export const files`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/ChatControls.svelte:31:12 Component has unused export property 'modelId'. If it is for external reference only, please consider using `export const modelId`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/ConfirmDialog.svelte:128:56 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/ConfirmDialog.svelte:166:8 Unused CSS selector ".modal-content"
+https://svelte.dev/e/css_unused_selector
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar.svelte:358:0 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar.svelte:358:0 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Messages.svelte:455:4 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Messages.svelte:457:5 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Messages.svelte:31:12 Component has unused export property 'prompt'. If it is for external reference only, please consider using `export const prompt`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:893:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:976:48 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:976:48 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:1332:56 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput.svelte:82:19 Component has unused export property 'taskIds'. If it is for external reference only, please consider using `export const taskIds`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Navbar.svelte:67:0 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Navbar.svelte:48:19 Component has unused export property 'scrollTop'. If it is for external reference only, please consider using `export const scrollTop`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Controls/Controls.svelte:77:48 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Controls/Controls.svelte:12:19 Component has unused export property 'models'. If it is for external reference only, please consider using `export const models`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Artifacts.svelte:125:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/chat/Artifacts.svelte:153:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/ImagePreview.svelte:92:32 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar/ChatItem.svelte:546:5 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:04 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar/UserMenu.svelte:24:19 Component has unused export property 'role'. If it is for external reference only, please consider using `export const role`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/Folder.svelte:15:19 Component has unused export property 'id'. If it is for external reference only, please consider using `export const id`
+https://svelte.dev/e/export_let_unused
+11:06:04 PM [vite-plugin-svelte] src/lib/components/common/Folder.svelte:23:19 Component has unused export property 'onAddLabel'. If it is for external reference only, please consider using `export const onAddLabel`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/PencilSquare.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/PencilSquare.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Search.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Search.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Settings.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Settings.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Sidebar.svelte:2:19 Component has unused export property 'className'. If it is for external reference only, please consider using `export const className`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/icons/Sidebar.svelte:3:19 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/VoiceRecording.svelte:418:40 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/VoiceRecording.svelte:539:32 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/FileItem.svelte:175:3 `<button>` cannot be a descendant of `<button>`. When rendering this component on the server, the resulting HTML will be modified by the browser (by moving, removing, or inserting elements), likely resulting in a `hydration_mismatch` warning
+https://svelte.dev/e/node_invalid_placement_ssr
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:1137:0 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:162:19 Component has unused export property 'socket'. If it is for external reference only, please consider using `export const socket`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:163:19 Component has unused export property 'user'. If it is for external reference only, please consider using `export const user`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/RichTextInput.svelte:166:19 Component has unused export property 'documentId'. If it is for external reference only, please consider using `export const documentId`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/InputVariablesModal.svelte:317:13 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/chat/MessageInput/CommandSuggestionList.svelte:14:12 Component has unused export property 'command'. If it is for external reference only, please consider using `export const command`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/layout/Navbar/Menu.svelte:39:19 Component has unused export property 'shareEnabled'. If it is for external reference only, please consider using `export const shareEnabled`
+https://svelte.dev/e/export_let_unused
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/FullHeightIframe.svelte:174:8 Self-closing HTML tags for non-void elements are ambiguous — use `<iframe ...></iframe>` rather than `<iframe ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:05 PM [vite-plugin-svelte] src/lib/components/common/FullHeightIframe.svelte:187:8 Self-closing HTML tags for non-void elements are ambiguous — use `<iframe ...></iframe>` rather than `<iframe ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:81:3 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:261:13 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:288:12 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/ChatsModal.svelte:28:12 Component has unused export property 'emptyPlaceholder'. If it is for external reference only, please consider using `export const emptyPlaceholder`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:58:5 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:111:1 Unused CSS selector "input::-webkit-outer-spin-button"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:112:1 Unused CSS selector "input::-webkit-inner-spin-button"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:117:1 Unused CSS selector ".tabs::-webkit-scrollbar"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:121:1 Unused CSS selector ".tabs"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ShortcutsModal.svelte:126:1 Unused CSS selector "input[type='number']"
+https://svelte.dev/e/css_unused_selector
+11:06:06 PM [vite-plugin-svelte] src/lib/components/icons/SignOut.svelte:3:12 Component has unused export property 'strokeWidth'. If it is for external reference only, please consider using `export const strokeWidth`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/layout/Sidebar/RecursiveFolder.svelte:454:24 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/Modal.svelte:89:8 Elements with the 'dialog' interactive role must have a tabindex value
+https://svelte.dev/e/a11y_interactive_supports_focus
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/Textarea.svelte:52:0 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/MultiResponseMessages.svelte:324:48 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/MultiResponseMessages.svelte:324:48 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:541:64 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:1062:88 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:1062:88 Self-closing HTML tags for non-void elements are ambiguous — use `<button ...></button>` rather than `<button ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage.svelte:132:19 Component has unused export property 'rateMessage'. If it is for external reference only, please consider using `export const rateMessage`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:226:88 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:274:48 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:366:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:433:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:459:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:487:56 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:516:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:546:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/Messages/UserMessage.svelte:613:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/FileItemModal.svelte:88:56 '#' is not a valid href attribute
+https://svelte.dev/e/a11y_invalid_attribute
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/FileItemModal.svelte:229:48 Self-closing HTML tags for non-void elements are ambiguous — use `<iframe ...></iframe>` rather than `<iframe ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/FileItemModal.svelte:241:48 Self-closing HTML tags for non-void elements are ambiguous — use `<audio ...></audio>` rather than `<audio ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/common/Valves/MapSelector.svelte:81:8 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:360:16 `<div>` with a mouseenter handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:558:64 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:590:24 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:591:24 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:43:19 Component has unused export property 'searchEnabled'. If it is for external reference only, please consider using `export const searchEnabled`
+https://svelte.dev/e/export_let_unused
+11:06:06 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/Selector.svelte:44:19 Component has unused export property 'searchPlaceholder'. If it is for external reference only, please consider using `export const searchPlaceholder`
+https://svelte.dev/e/export_let_unused
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/CodeBlock.svelte:446:32 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/RateComment.svelte:215:16 Self-closing HTML tags for non-void elements are ambiguous — use `<textarea ...></textarea>` rather than `<textarea ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage/RegenerateMenu.svelte:55:5 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/ResponseMessage/StatusHistory.svelte:58:11 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/ModelItem.svelte:116:80 Self-closing HTML tags for non-void elements are ambiguous — use `<span ...></span>` rather than `<span ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/ModelSelector/ModelItem.svelte:119:80 Self-closing HTML tags for non-void elements are ambiguous — use `<span ...></span>` rather than `<span ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/common/CodeEditor.svelte:235:0 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/MarkdownTokens.svelte:392:16 Self-closing HTML tags for non-void elements are ambiguous — use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/ContentRenderer/FloatingButtons.svelte:302:5 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:06:07 PM [vite-plugin-svelte] src/lib/components/common/Tags/TagInput.svelte:45:6 Self-closing HTML tags for non-void elements are ambiguous — use `<option ...></option>` rather than `<option ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/AlertRenderer.svelte:74:12 Component has unused export property 'token'. If it is for external reference only, please consider using `export const token`
+https://svelte.dev/e/export_let_unused
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/HTMLToken.svelte:8:12 Component has unused export property 'id'. If it is for external reference only, please consider using `export const id`
+https://svelte.dev/e/export_let_unused
+11:06:07 PM [vite-plugin-svelte] src/lib/components/chat/Messages/Markdown/SourceToken.svelte:5:12 Component has unused export property 'id'. If it is for external reference only, please consider using `export const id`
+https://svelte.dev/e/export_let_unused
+11:09:28 PM [vite] http proxy error: /api/chat
+Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+
+[404] GET /c/
